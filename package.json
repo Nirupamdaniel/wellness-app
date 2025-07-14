@@ -2,6 +2,7 @@
   "name": "wellness-app",
   "private": true,
   "version": "0.0.0",
+"homepage": "https://Nirupamdaniel.github.io/wellness-app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
